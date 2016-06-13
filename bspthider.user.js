@@ -2,7 +2,7 @@
 // @name BSPTHider
 // @description Hides point tracking thread posts on BS
 // @namespace poopgiggle
-// @version 0.1
+// @version 0.2
 // @include http*://www.boomershooter.com/forums/index.php?app=core&module=search&do=viewNewContent*
 // @require http://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js
 // ==/UserScript==
