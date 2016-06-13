@@ -10,6 +10,6 @@
 
 $(document).ready(function() {
     $('tr._recordRow').each(function(){
-        if( $(this).find('td h4 a')[0].text.search('| Point Tracking Threa') > 0 ){ $(this).remove(); }
+        if( $(this).find('td h4 a')[0].text.search('Point Tracking Threa') > 0 ){ $(this).remove(); }
      });
 });
